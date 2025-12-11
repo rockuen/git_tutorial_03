@@ -208,3 +208,4 @@ __marimo__/
 
 # 개인 파일 제외
 secret.txt
+credentials/
